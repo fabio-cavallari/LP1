@@ -1,0 +1,11 @@
+Enquanto a função do exercicio 2 retorna uma struct para 
+a variavel receber, a função do exercicio 3 utiliza da 
+variavel já criada, apenas a populando.
+
+A função do exercício 2 é mais intuitiva, sendo assim de 
+minha preferência.
+
+A função do exercício 3 apresenta a vantagem em relação a
+memória, pelo fato de não precisar inicializar uma outra struct dentro
+dela. E em questão de velocidade, nenhuma apresenta uma vantagem
+significatica sobre a outra.
